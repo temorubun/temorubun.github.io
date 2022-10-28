@@ -1,0 +1,130 @@
+body{
+
+    box-sizing: border-box;
+    margin: 0;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    background-color: #fff;
+    height: 100%;
+    font-family: sans-serif;
+
+}
+
+.Seravina-conten{
+
+    box-sizing: border-box;
+    width: 100%;
+    min-height: 100vh;
+    background: linear-gradient(45deg,#4158d0,#c850c0);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 33px 30px;
+
+}
+
+.Seravina-h1{
+
+    text-align: center; 
+    font-size: 25px; 
+    padding-bottom: 25px;
+
+}
+
+.Seravina-tabel{
+
+    color: #212529;
+    border-collapse: collapse;
+    background: #fff;
+    border-radius: 10px;
+    overflow: hidden;
+    width: 100rem;
+    position: relative;
+
+}
+
+.Seravina-tabel tbody tr:hover{
+
+    background-color: rgba(122, 122, 122, 0.325);
+
+}
+
+.Seravina-tabel tbody td {
+    
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-align: center;
+
+}
+
+.Seravina-thead{
+
+    text-align: center;
+    color: #ffffff;
+    height: 60px;
+    background: #36304a;
+
+}
+
+.Seravina-tr2{
+
+    border-bottom: 2px solid rgb(122, 122, 122);    
+
+}
+
+.Seravina-tr3{
+
+    border-top: 2px solid rgb(122, 122, 122);
+    border-bottom: 2px solid rgb(122, 122, 122);
+    background-color: rgba(122, 122, 122, 0.325);
+
+}
+
+.Seravina-tr4{
+
+    border-top: 2px solid rgb(122, 122, 122);
+    border-bottom: 2px solid rgb(122, 122, 122);
+
+}
+
+.Seravina-tr5{
+
+    border-top: 2px solid rgb(122, 122, 122);
+    border-bottom: 2px solid rgb(122, 122, 122);
+    background-color: rgba(122, 122, 122, 0.325);
+    
+}
+
+.Seravina-tr6{
+
+    border-top: 2px solid rgb(122, 122, 122);
+    border-bottom: 2px solid rgb(122, 122, 122);
+
+}
+
+.Seravina-tr7{
+
+    border-top: 2px solid rgb(122, 122, 122);
+    border-bottom: 2px solid rgb(122, 122, 122);
+    background-color: rgba(122, 122, 122, 0.325);
+
+}
+
+.Seravina-tr8{
+
+    border-top: 2px solid rgb(122, 122, 122);
+
+}
+
+.Seravina-footer{
+
+    margin-top: 25px;
+
+}
+
+
+
+
